@@ -4,8 +4,6 @@
 
 [🌐 filipecamargo.com.br](https://filipecamargo.com.br) &nbsp;·&nbsp; [💼 LinkedIn](https://linkedin.com/in/filipecamargo10) &nbsp;·&nbsp; [✉️ filipecamargo10@gmail.com](mailto:filipecamargo10@gmail.com)
 
-![Perfil visto](https://komarev.com/ghpvc/?username=fcamargo10&label=Visualizações&color=0e75b6&style=flat)
-
 ---
 
 ## 🧭 Sobre mim
